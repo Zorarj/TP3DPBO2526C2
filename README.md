@@ -1,3 +1,7 @@
+## Janji Kejujuran
+
+> Saya **Zora Riyadhul Jinan** dengan **NIM 2509722** mengerjakan TP 3 DPBO dalam mata kuliah Struktur Data. Untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 # Hybrid Car Simulation System
 
 Proyek ini merupakan simulasi sistem mobil hybrid berbasis Object-Oriented Programming (OOP) yang diimplementasikan dalam dua bahasa pemrograman: Python dan C++. Proyek ini memperagakan bagaimana beberapa komponen mesin dan baterai digabungkan menjadi satu sistem kendaraan hybrid.
@@ -34,36 +38,6 @@ Proyek ini merupakan simulasi sistem mobil hybrid berbasis Object-Oriented Progr
     └── main.cpp            # File utama untuk menjalankan program C++
 ```
 
-## Cara Menjalankan Program
-
-### 1. Versi Python
-
-Pastikan Anda memiliki Python 3.x yang sudah terinstal di sistem Anda.
-
-Jalankan perintah berikut pada terminal/command prompt:
-```bash
-python main.py
-```
-
-### 2. Versi C++
-
-Pastikan Anda memiliki compiler C++ (seperti g++) yang terinstal.
-
-1. Kompilasi kode:
-   ```bash
-   g++ main.cpp -o hybrid_car
-   ```
-
-2. Jalankan executable:
-   - Linux / macOS:
-     ```bash
-     ./hybrid_car
-     ```
-   - Windows (CMD/PowerShell):
-     ```cmd
-     hybrid_car.exe
-     ```
-
 ## Contoh Output
 
 Ketika dijalankan, program akan menghasilkan output seperti berikut:
@@ -99,4 +73,4 @@ Efisiensi Mesin: S
 ![alt](<c++/dokumentasiC++/Screenshot 2026-10-03 161515.png>)
 
 # Diagram
-![alt](<diagram.png.png>)
+![alt](<diagram.png>)
