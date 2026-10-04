@@ -97,3 +97,6 @@ Efisiensi Mesin: S
 ![alt](<c++/dokumentasiC++/Screenshot 2026-10-03 161233.png>)
 ![alt](<python/dokumentasiPython/Screenshot 2026-10-03 161451.png>)
 ![alt](<c++/dokumentasiC++/Screenshot 2026-10-03 161515.png>)
+
+# Diagram
+![alt](<diagram.png.png>)
